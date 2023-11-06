@@ -2,8 +2,7 @@
 
 ### Description
 
-Block allows to move rows in the table
-
+Create beautifully organized content with our Tabs WordPress plugin.
 ### Install
 
 - Preferable way is to use [Composer](https://getcomposer.org/):
